@@ -34,7 +34,16 @@ h2 {
   margin: 0 auto;
 }
 
+.burger2 {
+  max-width: 500px;
+  margin: 0 auto;
+}
+
 /* This center-aligns all of the ingredients */
 .burger > div {
+  margin: 0 auto;
+}
+
+.burger2 > div {
   margin: 0 auto;
 }
